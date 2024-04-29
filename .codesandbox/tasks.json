@@ -12,12 +12,12 @@
     "dev": {
       "name": "dev",
       "command": "npm run dev",
-      "runAtStart": true
+      "runAtStart": false
     },
     "turbo": {
       "name": "turbo",
       "command": "npm run turbo",
-      "runAtStart": false
+      "runAtStart": true
     },
     "build": {
       "name": "build",
